@@ -55,9 +55,6 @@ The project uses standard Java compilation. In Visual Studio Code:
 1. Open the Command Palette (Ctrl+Shift+P)
 2. Run the "Java: Build Workspace" command
 
-## License
-
-[Your chosen license]
 
 ## Contributing
 
