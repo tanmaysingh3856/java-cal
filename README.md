@@ -26,7 +26,7 @@ A sleek Java-based calculator application built with Swing that provides basic a
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/tanmaysingh3856/java-cal
 ```
 
 2. Open the project in Visual Studio Code
